@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Le Louëdec</h1>
-<h3 align="center">A PhD student interesting in computer vision, graphics, machine learning and robotics</h3>
+<h3 align="center">A Postdoctoral researcher in computer vision, graphics, machine learning and robotics and now space weather! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lelouedec&label=Profile%20views&color=0e75b6&style=flat" alt="lelouedec" /> </p>
 
