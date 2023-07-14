@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/lelouedecjustin" target="blank"><img src="https://img.shields.io/twitter/follow/lelouedecjustin?logo=twitter&style=for-the-badge" alt="lelouedecjustin" /></a> </p>
 
-- 🔭 I’m currently working on [My PhD project, and a video game](https://scholar.google.co.uk/citations?user=wc2KpfEAAAAJ&hl=en)
+- 🔭 I’m currently working on [My postdoctoral project and other cool stuff](https://scholar.google.co.uk/citations?user=wc2KpfEAAAAJ&hl=en)
 
 - 👯 I’m looking to collaborate on **Cool research project**
 
